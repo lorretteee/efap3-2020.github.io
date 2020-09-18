@@ -1,0 +1,23 @@
+body {text-align: center; background: #FFDCE1;}
+
+h1 {font-family: arial; color: red; text-align: center;}
+h2 {font-family: arial; color: #FF737D; text-align: center;}
+
+ul {text-align: center;}
+h3 {font-family: arial; color: #FF737D; text-align: center;}
+
+
+a {background: lightwith; text-align: center;}
+a:hover {background: lightred; text-align: center;}
+
+iframe {width:"500" height"500" src="https://www.youtube.com/watch?v=xq4L3IBHBgU"}
+
+
+.avatar {border-radius: 25px; box-shadow: 5px 5px 5px grey;}
+
+.abc {width: 200px; height:200px; objectif-fit: cover; border-radius: 25px; box-shadow: 5px 5px 5px grey;}
+
+.border { border: solid 1px red; }
+
+.cadre { border: solid 4px yellow; margin: 50px 200px 50px 200px; 
+	border-radius: 8px; background: pink; box-shadow: 5px 5px 5px grey}
